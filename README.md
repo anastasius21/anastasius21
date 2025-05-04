@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 Anas here
+I am an undergraduate data science enthusiast currently learning and improving my skills in the realm of data science. I am passionate about data analysis, data exploration,  basically everything around data. I have a great authority over python, sql, machine learning, NLP, Numpy, Pandas, Scikitlearn, Matplotlib, Seaborn. I am constantly looking for an intenship or any role as a data scientist to convert my skills into real-world experience. Feel free to connect with me for any suggestions, collaboration if working on similar projects.
+
 
 <!--
 **anastasius21/anastasius21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
