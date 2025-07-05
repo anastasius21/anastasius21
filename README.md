@@ -1,5 +1,6 @@
-## Hi there 👋 Anas here
-I am an undergraduate data science enthusiast currently learning and improving my skills in the realm of data science. I am passionate about data analysis, data exploration,  basically everything around data. I have a great authority over python, sql, machine learning, NLP, Numpy, Pandas, Scikitlearn, Matplotlib, Seaborn. I am constantly looking for an intenship or any role as a data scientist to convert my skills into real-world experience. Feel free to connect with me for any suggestions, collaboration if working on similar projects.
+## Hi
+I am a Data Scientist having practical experience in the realm of data science. Whether its machine learning or data analysis or even data visualization,
+I have worked with real-world data to test my skills for each domain and came out succeeded. Currently looking for internship role in data science.
 
 
 <!--
