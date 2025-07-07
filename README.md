@@ -1,6 +1,6 @@
 ## Hi
 I am a Data Scientist having practical experience in the realm of data science. Whether its machine learning or data analysis or even data visualization,
-I have worked with real-world data to test my skills for each domain and came out succeeded. Currently looking for internship role in data science.
+I have worked with real-world data to test my skills for each domain and came out succeeded. Currently looking for role in data science.
 
 
 <!--
